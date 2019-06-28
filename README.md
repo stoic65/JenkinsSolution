@@ -1,7 +1,6 @@
 # JenkinsSolution
-All the relevant screenshot included in the folder
 
-1)Make sure that you have added Jacoco code coverage report in your project
+1) Make sure that you have added Jacoco code coverage report in your project
 2) Install Jenkins on your local machine
 3) Install the JaCoCo plugin in Jenkins. Manage Jenkins -> Add Plugins
 4) Create a new Jenkins job
